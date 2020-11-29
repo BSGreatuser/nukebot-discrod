@@ -1,2 +1,2 @@
-# nukebot-discrod
-채널 삭제&amp;복제
+# discord.py 1.4.0
+- 채널 삭제&복제 봇
