@@ -17,7 +17,7 @@ async def on_ready():
 
 @client.event
 async def on_message(message):
-    if message.content.startswith('봉순아 폭파'):
+    if message.content.startswith('!폭파'):
         if message.author.guild_permissions.ban_members:
             aposition = message.channel.position
             new = await message.channel.clone()
