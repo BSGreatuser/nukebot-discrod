@@ -1,8 +1,4 @@
 
-###################
-#discord.py==1.4.0#
-###################
-
 import discord
 
 client = discord.Client()
